@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanskruti Shimple</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Engineer</h3>
 
 <img align="right" alt=”coding” width="300" src="https://devmastery.tech/static/developers-4984c0ac41b13002de2873e622efa63c.gif">
 
