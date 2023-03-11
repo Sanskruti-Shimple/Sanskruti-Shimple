@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskruti Shimple</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
-<img align= “right” alt=”coding” width=”200” src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt=”coding” width="300" src="https://devmastery.tech/static/developers-4984c0ac41b13002de2873e622efa63c.gif">
 
 
 - 🌱 I’m currently learning **MERN Stack**
