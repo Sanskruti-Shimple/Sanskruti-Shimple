@@ -1,3 +1,5 @@
+![logo](https://github.com/Sanskruti-Shimple/Sanskruti-Shimple/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sanskruti Shimple</h1>
 <h3 align="center">A Passionate Engineer</h3>
 
