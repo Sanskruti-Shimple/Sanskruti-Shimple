@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sanskruti-Shimple](https://github.com/Sanskruti-Shimple)
-
+- 👨‍💻 All of my projects are available at https://linktr.ee/ssanskruti?utm_source=linktree_admin_share 
 - 📫 How to reach me **sanskrutishimple20042002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/139Mmrb40Df_rQVe0zGHYPbCTZcSPxKYg/view?usp=share_link](https://drive.google.com/file/d/139Mmrb40Df_rQVe0zGHYPbCTZcSPxKYg/view?usp=share_link)
