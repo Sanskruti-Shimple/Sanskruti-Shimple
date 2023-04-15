@@ -1,4 +1,4 @@
-![logo](https://github.com/Sanskruti-Shimple/Sanskruti-Shimple/blob/main/banner.png)
+![logo](https://github.com/Sanskruti-Shimple/Sanskruti-Shimple/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sanskruti Shimple</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
