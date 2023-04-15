@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sanskruti Shimple</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
-<img align="right" alt=”coding” width="200" src="https://devmastery.tech/static/developers-4984c0ac41b13002de2873e622efa63c.gif">
+<img align="right" alt=”coding” width="150" src="https://devmastery.tech/static/developers-4984c0ac41b13002de2873e622efa63c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskruti-shimple&label=Profile%20views&color=0e75b6&style=flat" alt="sanskruti-shimple" /> </p>
 
