@@ -2,11 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Sanskruti Shimple</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
-<img align="right" alt=”coding” width="150" src="https://devmastery.tech/static/developers-4984c0ac41b13002de2873e622efa63c.gif">
+<img align="right" alt=”coding” width="300" src="https://devmastery.tech/static/developers-4984c0ac41b13002de2873e622efa63c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskruti-shimple&label=Profile%20views&color=0e75b6&style=flat" alt="sanskruti-shimple" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskruti-shimple" alt="sanskruti-shimple" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sanskruti__" target="blank"><img src="https://img.shields.io/twitter/follow/sanskruti__?logo=twitter&style=for-the-badge" alt="sanskruti__" /></a> </p>
 
