@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sanskrutishimple20042002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/139Mmrb40Df_rQVe0zGHYPbCTZcSPxKYg/view?usp=share_link]([https://drive.google.com/file/d/139Mmrb40Df_rQVe0zGHYPbCTZcSPxKYg/view?usp=share_link](https://drive.google.com/file/d/1o38mvEP8X2E00tFVIEiEAU52GPPMgNQ3/view?usp=sharing))
+- 📄 Know about my experiences https://drive.google.com/file/d/1o38mvEP8X2E00tFVIEiEAU52GPPMgNQ3/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
