@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanskruti Shimple</h1>
 <h3 align="center">Passionate about Technology</h3>
 
-<img align="right" alt=”coding” width="300" src="https://devmastery.tech/static/developers-4984c0ac41b13002de2873e622efa63c.gif">
+<img align="right" alt=”coding” width="500" src="https://devmastery.tech/static/developers-4984c0ac41b13002de2873e622efa63c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskruti-shimple&label=Profile%20views&color=0e75b6&style=flat" alt="sanskruti-shimple" /> </p>
 
@@ -11,13 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sanskruti-Shimple](https://github.com/Sanskruti-Shimple)
-
-- 📝 I regularly write articles on [https://medium.com/@sanskrutishimple](https://medium.com/@sanskrutishimple)
-
 - 📫 How to reach me **sanskrutishimple20042002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VxqqHEHsW7Z1VBRB379hud0uaU3HdlZr/view?usp=sharing](https://drive.google.com/file/d/1VxqqHEHsW7Z1VBRB379hud0uaU3HdlZr/view?usp=sharing)
 
 - Me **Ambitious, Enthusiast, Ingenious**
 
